@@ -1,0 +1,62 @@
+[
+    {
+        "emp_id": "A2002:0",
+        "emp_firstname": "Nitesh",
+        "emp_lastname": "Kamal",
+        "age": 23,
+        "city": "Bhubaneswar",
+        "CTC": 10,
+        "experience": 2,
+        "contactno": 2354654545
+    },
+    {
+        "emp_id": "A2002:1",
+        "emp_firstname": "sdfdxf",
+        "emp_lastname": "fdsfdsf",
+        "age": 22,
+        "city": "ffcxfdfdd",
+        "CTC": 24,
+        "experience": 2,
+        "contactno": 454543344
+    },
+    {
+        "emp_id": "A2002:2",
+        "emp_firstname": "bbdffdgr",
+        "emp_lastname": "ddfzrde",
+        "age": "23",
+        "city": "cbvngffvf",
+        "CTC": 32,
+        "experience": 3,
+        "contactno": 87764563
+    },
+    {
+        "emp_id": "A2002:04",
+        "emp_firstname": "xasdsads",
+        "emp_lastname": "dsadas",
+        "age": 23,
+        "city": "csddsd",
+        "CTC": 34,
+        "experience": 3,
+        "contactno": 352534324
+    },
+    {
+        "emp_id": "A2002:04",
+        "emp_firstname": "efd",
+        "emp_lastname": "2",
+        "age": 3,
+        "city": "32",
+        "CTC": 2,
+        "experience": 32,
+        "contactno": 3
+    },
+    {
+        "emp_id": "A2002:05",
+        "emp_firstname": "efesfe",
+        "emp_lastname": "fdsfd",
+        "age": 23,
+        "city": "fddgd",
+        "CTC": 33,
+        "experience": 2,
+        "contactno": 343243
+    }
+]
